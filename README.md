@@ -67,7 +67,7 @@
 - **스프링 프로젝트 설정(수업)**
    - [go to link](https://github.com/workingdrill/class/wiki/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%A4%EC%A0%95)
 - **스프링 프로젝트 일괄 적용(수업)**
-   - [go to link](https://github.com/pinnpublic/class/wiki/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%9D%BC%EA%B4%84-%EC%A0%81%EC%9A%A9)
+   - [go to link](https://github.com/workingdrill/class/wiki/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%9D%BC%EA%B4%84-%EC%A0%81%EC%9A%A9)
 ##
 ## 유틸리티
 > 활용 가능한 유틸리티
