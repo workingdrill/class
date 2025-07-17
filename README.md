@@ -81,12 +81,12 @@
 ##
 ## 폰트
 > 활용 가능한 글꼴
-- **JetBrainsMono**
-   - [go to link](https://github.com/Jhyub/JetBrainsMonoHangul)
 - **나눔고딕코딩** > *Ver 2.5 (2016.10.24 배포)*
    - [go to link](https://github.com/naver/nanumfont)
 - **D2Coding** > *Ver 1.3.2 (2018.06.01 배포)*
    - [go to link](https://github.com/naver/d2codingfont)
+- **JetBrainsMono**
+   - [go to link](https://github.com/Jhyub/JetBrainsMonoHangul)
 - **Consolas**
    - [go to link](https://www.dafontfree.io/consolas-font/)
 - **Bitstream Vera Sans Mono**
@@ -97,13 +97,13 @@
 ## 개발도구/실행환경
 > 개발 및 실행 환경 설정정
 - **Oracle JDK 11** > *Windows x64 Installer* > *jdk-11.0.13_windows-x64_bin.exe*
-   - 다운로드하기 위해서 오라클 계정이 필요합니다.
+   - 다운로드를 위해 오라클 계정 필요
    - [go to link](https://www.oracle.com/kr/java/technologies/javase/jdk11-archive-downloads.html)
 - **Oracle JDK 17** > *Windows x64 Installer* > *jdk-17.0.12_windows-x64_bin.exe*
-   - 다운로드하기 위해서 오라클 계정이 필요합니다.
+   - 다운로드를 위해 오라클 계정 필요
    - [go to link](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
 - **Oracle JDK 21** > *Windows x64 Installer* > *jdk-21_windows-x64_bin.exe*
-   - 다운로드하기 위해서 오라클 계정이 필요합니다.
+   - 다운로드를 위해 오라클 계정 필요
    - [go to link](https://www.oracle.com/kr/java/technologies/downloads/#java21)
 - **OpenJDK 11** > *OpenJDK Archive* > *11.0.2 (build 11.0.2+9) Windows	64-bit*
    - [go to link](https://jdk.java.net/archive/)
@@ -130,13 +130,13 @@
 ## 데이터베이스
 > 데이터베이스
 - **Oracle Database 21c Express Edition** > *Oracle Database 21c Express Edition for Windows x64*
-   - 다운로드하기 위해서 오라클 계정 필요
+   - 다운로드를 위해 오라클 계정 필요
    - [go to link](https://www.oracle.com/kr/database/technologies/xe-downloads.html)
 - **Oracle Database Express Edition (XE) Release 11.2.0.2.0 (11gR2)** > *Oracle Database 11gR2 Express Edition for Windows x64*
-   - 다운로드하기 위해서 오라클 계정 필요
+   - 다운로드를 위해 오라클 계정 필요
    - [go to link](https://www.oracle.com/database/technologies/xe-prior-release-downloads.html)
 - **SQL Developer 24.3** > *Windows 64-bit with JDK 17 included*
-   - 다운로드하기 위해서 오라클 계정 필요
+   - 다운로드를 위해 오라클 계정 필요
    - [go to link](https://www.oracle.com/tools/downloads/sqldev-downloads.html)
 ##
 ## 브라우저
@@ -168,6 +168,6 @@
    - [go to link](https://www.jetbrains.com/ko-kr/lp/devecosystem-2023/java/)
 ##
 ## CSS Framework
-> 스타일일
+> 스타일
 - **Example CDN**
    - [go to link](https://github.com/pinnpublic/cdn)
