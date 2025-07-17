@@ -4,6 +4,7 @@
 ## 다운로드(Downloads)
 > 수업 진행간 필요한 다운로드 항목
 - **자료실**
+   - 다운로드를 위해 네이버 계정 필요
    - [go to link](https://naver.me/F8uL97O8)
 
 ##
