@@ -1,4 +1,11 @@
 # 수업
+
+##
+## 다운로드(Downloads)
+> 수업 진행간 필요한 다운로드 항목
+- **자료실**
+   - [go to link](https://naver.me/F8uL97O8)
+
 ##
 ## 문서(Documentation)
 > 개발에 필요한 공식/비공식 문서
@@ -69,7 +76,7 @@
 - **스프링 프로젝트 일괄 적용(수업)**
    - [go to link](https://github.com/workingdrill/class/wiki/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%9D%BC%EA%B4%84-%EC%A0%81%EC%9A%A9)
 ##
-## 유틸리티
+## 유틸리티(Utility)
 > 활용 가능한 유틸리티
 - **반디집**
    - [MS Store(권장)](http://ms-windows-store://pdp/?ProductId=9P2W3W81SPPB)
@@ -79,7 +86,7 @@
 - **Cmder**
    - [go to link](https://cmder.app/)
 ##
-## 폰트
+## 폰트(글꼴, Fonts)
 > 활용 가능한 글꼴
 - **나눔고딕코딩** > *Ver 2.5 (2016.10.24 배포)*
    - [go to link](https://github.com/naver/nanumfont)
@@ -95,7 +102,7 @@
    - [go to link](https://github.com/tonsky/FiraCode)
 ##
 ## 개발도구/실행환경
-> 개발 및 실행 환경 설정정
+> 개발 및 실행 환경 설정
 - **Oracle JDK 11** > *Windows x64 Installer* > *jdk-11.0.13_windows-x64_bin.exe*
    - 다운로드를 위해 오라클 계정 필요
    - [go to link](https://www.oracle.com/kr/java/technologies/javase/jdk11-archive-downloads.html)
@@ -114,8 +121,8 @@
 - **Node.js**
    - [go to link](https://nodejs.org/ko/)
 ##
-## 편집기
-> 개발 문서 편집 도구구
+## 편집기(통합개발환경, IDE)
+> 코드 편집 도구
 - **Eclipse IDE 2024-09 R** > *Eclipse IDE for Enterprise Java and Web Developers* > *Windows x86_64*
    - [go to link](https://www.eclipse.org/downloads/packages/)
 - **Eclipse IDE 2021-03 R** > *Eclipse IDE for Enterprise Java and Web Developers* > *Windows x86_64*
@@ -127,7 +134,7 @@
 - **Spring Tools 4** > *Spring Tools 4.26.0* > *full distribution on Eclipse 2024-09 (4.33)* > *spring-tool-suite-4-4.26.0.RELEASE-e4.33.0-win32.win32.x86_64.zip*
    - [go to link](https://github.com/spring-projects/sts4/wiki/Previous-Versions)
 ##
-## 데이터베이스
+## 데이터베이스(Database)
 > 데이터베이스
 - **Oracle Database 21c Express Edition** > *Oracle Database 21c Express Edition for Windows x64*
    - 다운로드를 위해 오라클 계정 필요
@@ -139,24 +146,24 @@
    - 다운로드를 위해 오라클 계정 필요
    - [go to link](https://www.oracle.com/tools/downloads/sqldev-downloads.html)
 ##
-## 브라우저
+## 브라우저(Browser)
 > 크로스브라우징 관련
 - **Chrome Browser**
    - [go to link](https://www.google.com/intl/ko_kr/chrome/)
 - **Firefox**
    - [go to link](https://www.mozilla.org/ko/firefox/new/)
 ##
-## 형상관리
+## 형상관리(SCM)
 > 형상/버전 관리
 - **Git SCM**
    - [go to link](https://git-scm.com/)
 ##
-## ERD
+## ERD(ER-Diagram)
 > ER-다이어그램
 - **eXERD** > *eXERD 3.X*
    - [go to link](https://ko.exerd.com/down.jsp)
 ##
-## 참고
+## 참고(Reference)
 > 참고
 - **Statcounter**
    - [go to link](https://gs.statcounter.com/)
