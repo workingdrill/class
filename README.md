@@ -72,8 +72,7 @@
 ## 유틸리티
 > 활용 가능한 유틸리티
 - **반디집**
-   - MS Store(권장)
-   - [go to link](ms-windows-store://pdp/?ProductId=9P2W3W81SPPB)
+   - [MS Store(권장)](ms-windows-store://pdp/?ProductId=9P2W3W81SPPB)
    - [go to link](https://kr.bandisoft.com/bandizip/)
 - **PowerToys**
    - [go to link](https://github.com/microsoft/PowerToys/releases/tag/v0.55.2)   
